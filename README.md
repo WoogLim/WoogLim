@@ -1,2 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogLim&langs_count=8&exclude_repo=OurHouse,SpringProject_PMS)](https://github.com/anuraghazra/github-readme-stats)
-![poyo](https://user-images.githubusercontent.com/51357635/127189356-6cb74470-7ce5-4aec-9893-602863eb9731.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WoogLim&langs_count=8&exclude_repo=OurHouse,SpringProject_PMS)](https://github.com/anuraghazra/github-readme-stats)![poyo](https://user-images.githubusercontent.com/51357635/127189538-5c1b8d51-9135-4434-9c7d-3ba9195e7e56.png)
